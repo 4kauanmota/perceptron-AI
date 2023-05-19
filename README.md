@@ -1,1 +1,17 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/ij9-kLha)
+![Project Stars](https://img.shields.io/github/stars/4kauanmota/perceptronIA?color=1e90ff) ![Project Commits Week](https://img.shields.io/github/commit-activity/w/4kauanmota/perceptronIA?color=1e90ff)
+
+# 📄 **Informations**
+**This project had the help of these 2 videos, and my classes at the university**
++ https://youtu.be/ntKn5TPHHAk (neural networks part 1) 
++ https://youtu.be/DGxIcDjPzac (neural networks part 2) 
+
+# ✨ **Features**
++ A a.i. that can learn and improve your skills to identify whether points are below or above the line
+
+# 💻 **Technologies**
++ `HTML`
++ `JAVASCRIPT`
++ `VISUAL STUDIO CODE`
++ `BOHR`
+
+**You can test the ia by clicking [HERE](https://perceptronai.bohr.io)**
