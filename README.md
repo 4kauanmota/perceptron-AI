@@ -14,4 +14,4 @@
 + `VISUAL STUDIO CODE`
 + `BOHR`
 
-**You can test the a.i. by clicking [HERE](https://perceptronai.bohr.io)**
+**You can test the a.i. by clicking [HERE](https://4kauanmota.github.io/perceptron-AI/)**
